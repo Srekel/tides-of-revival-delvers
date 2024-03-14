@@ -1,0 +1,21 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            // "command": "zig build -Dztracy-enable=false -Dzd3d12-enable_debug_layer=false --summary failures",
+            "command": "zig build --summary failures -freference-trace",
+            "group": "build",
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "presentation": {
+                "clear": true,
+                // "revealProblems": "onProblem"
+            }
+        },
+    ]
+}

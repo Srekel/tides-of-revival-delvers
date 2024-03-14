@@ -5,17 +5,17 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(Windows) Launch",
-            "type": "cppvsdbg",
+            "name": "Debug Delvers",
+            "type": "lua-local",
             "request": "launch",
-            "program": "${workspaceFolder}/love/love.exe",
+            "program": {
+                "command": "${workspaceFolder}/love/love.exe",
+            },
             "args": [
                 ".",
             ],
-            "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             // "cwd": "${workspaceFolder}/zig-out/bin",
-            "environment": [],
             // "preLaunchTask": "build"
         },
     ]
