@@ -22,43 +22,36 @@ Listed more or less in order you'll do them in the game.
 1. **Scry** to find good places to dig.
    - You'll need to hire a wandering magician to cast a spell and give you an indication where a nearby dungeon is.
    - More scry-like options can be upgraded.
-2. **Dig** into the ground.
+1. **Dig** into the ground.
    - Diggers will dig in a straight line towards a destination.
    - Initial digs will be poor quality (slow to traverse), this can be upgraded later.
-3. **Protect** diggers.
+1. **Protect** diggers.
    - Diggers will need adventurers to go with them, lest they may get ambushed by goblins and other monsters.
    - (This feature is nice-to-have)
-4. **Discover** dungeons.
+1. **Discover** dungeons.
    - As a digger digs into an open area, they discover the area (partially).
-5. **Explore** dungeons.
+1. **Explore** dungeons.
    - You'll need to hire adventurers to go down into the dungeon.
    - They may need to fight monsters.
    - They gain XP/levels from killing monsters.
-6. **Loot** monsters.
+1. **Loot** monsters.
    - Killed monsters will drop loot. Random chance between gold (you'll take a cut) or equipment (adventurers get better).
-7. **Uncover** riches.
+1. **Uncover** riches.
    - Gold and gemstones.
-8. **Excavate** your findings.
+1. **Excavate** your findings.
    - Hire excavators. These go into the dungeon and start mining the riches.
-9. **Transport** up.
+1. **Transport** up.
    - Hire carriers with strong backs and big bags.
-10. **Store** your plunder.
-
-- Immediately selling it might not be best (or possible)
-- You'll need storage.
-
-11. **Sell** your inventory.
-
-- When merchants arrive, sell your stuff and get rich!
-- Merchants might not be buying exactly what you're selling, paying less.
-- See which merchants are on their way ("Diamond salesman in 45 seconds..")
-
-12. **Upgrade** your village.
-
-- Diggers, storage, inns (to get better adventurers), blacksmiths, ....
-
-13. **Dig deeper!**
-
-- More danger, more riches!
+1. **Store** your plunder.
+   - Immediately selling it might not be best (or possible)
+   - You'll need storage.
+1. **Sell** your inventory.
+   - When merchants arrive, sell your stuff and get rich!
+   - Merchants might not be buying exactly what you're selling, paying less.
+   - See which merchants are on their way ("Diamond salesman in 45 seconds..")
+1. **Upgrade** your village.
+   - Diggers, storage, inns (to get better adventurers), blacksmiths, ....
+1. **Dig deeper!**
+   - More danger, more riches!
 
 "Metagame": Use your riches to expand your operation across a world map, with multiple other "players" taking place trying to get to the best places before you do...
